@@ -1,9 +1,6 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Devon
+Created on: Mar 2026
+This module is a Micro:bit MicroPython that uses radio.
 """
 
-from microbit import *
-
-display.scroll("Hello, World!")
